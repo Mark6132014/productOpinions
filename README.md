@@ -1,1 +1,3 @@
-# productOpinions
+# Welcome to...
+## Product Opinions!
+### In here, you get to see my opinions on Amazon products!
